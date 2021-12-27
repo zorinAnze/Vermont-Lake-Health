@@ -126,4 +126,10 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-.pyre/
+
+
+# Data
+
+/assets
+token.txt
+mapbox_token.txt
