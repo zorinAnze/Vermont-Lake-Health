@@ -3,4 +3,4 @@ Project provides a collection of analysis related to lake water health in the st
 
 <img src="image.jpg" width="1028"/>
 
-<script src="https://embed.github.com/view/geojson/anzeZorin/Vermont-Lake-Health/Lake_Inventory_Watersheds.geojson>"></script>
+
