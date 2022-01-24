@@ -130,6 +130,9 @@ dmypy.json
 
 # Data
 
-/assets
+assets/chem_data_merged.csv
+assets/combined_tables.csv
+assets/health_metric.csv
+assets/statsum.csv
 token.txt
 mapbox_token.txt

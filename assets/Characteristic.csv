@@ -1,0 +1,119 @@
+﻿CharacteristicID,CharacteristicName,UnitCode,SampleFraction
+AshFreeDryMass,Ash Free Dry Mass,mg,NULL
+BOD5,"Biological Oxygen Demand, 5 day",mg/l,NULL
+BottomDepth,Bottom depth,m,NULL
+BottomSecchi,Bottom secchi,NULL,NULL
+CBOD5,"Carbonaceous Biological Oxygen Demand, 5 day",mg/l,NULL
+Chla,Chlorophyll-a,ug/l,NULL
+ChlaPeri,Chlorophyll-a Periphyton,mg/m2,NULL
+ChlaProbe,Chlorophyll-a (probe),ug/l,NULL
+Chlb,Chlorophyll-b,ug/l,NULL
+COD,Chemical Oxygen Demand,mg/l,NULL
+Cond,Conductivity,umho/cm,NULL
+DAg,Dissolved Silver,ug/l,Dissolved
+DAl,Dissolved Aluminum,ug/l,Dissolved
+DAs,Dissolved Arsenic,ug/l,Dissolved
+DBa,Dissolved Barium,ug/l,Dissolved
+DBe,Dissolved Beryllium,ug/l,Dissolved
+DC,Dissolved Carbon,mg/l,Dissolved
+DCa,Dissolved Calcium,mg/l,Dissolved
+DCd,Dissolved Cadmium,ug/l,Dissolved
+DCl,Dissolved Chloride,mg/l,Dissolved
+DCo,Dissolved Cobalt,ug/l,Dissolved
+DCr,Dissolved Chromium,ug/l,Dissolved
+DCu,Dissolved Copper,ug/l,Dissolved
+DFe,Dissolved Iron,ug/l,Dissolved
+DHg,Dissolved Mercury,ug/l,Dissolved
+DIC,Dissolved Inorganic Carbon,mg/l,Dissolved
+DissolvedHard,Dissolved Hardness,mg/l,Total
+DK,Dissolved Potassium,mg/l,Dissolved
+DMg,Dissolved Magnesium,mg/l,Dissolved
+DMn,Dissolved Manganese,ug/l,Dissolved
+DMo,Dissolved Molybdenum,ug/l,Dissolved
+DNa,Dissolved Sodium,mg/l,Dissolved
+DNi,Dissolved Nickel,ug/l,Dissolved
+DNO3,Dissolved Nitrate Nitrogen,mg/l,Dissolved
+DO,Dissolved Oxygen,mg/l,NULL
+DO%,Dissolved Oxygen Saturation,%,NULL
+DOC,Dissolved Organic Carbon,mg/l,Dissolved
+DOP,Dissolved Ortho Phosphorus,ug/l,Dissolved
+DP,Dissolved Phosphorus,ug/l,Dissolved
+DPb,Dissolved Lead,ug/l,Dissolved
+DSb,Dissolved Antimony,ug/l,Dissolved
+DSe,Dissolved Selenium,ug/l,Dissolved
+DSi,Dissolved Silica,mg/l,Dissolved
+DSO4,Dissolved Sulfate,mg/l,Dissolved
+DSr,Dissolved Strontium,ug/l,Dissolved
+DTl,Dissolved Thallium,ug/l,Dissolved
+DU,Dissolved Uranium,ug/L,Dissolved
+DV,Dissolved Vanadium,ug/l,Dissolved
+DZn,Dissolved Zinc,ug/l,Dissolved
+Ecoli,E. Coli Bacteria,#/100ml,NULL
+FecalColMFAg,Fecal Coliform using MF Agar,#/100ml,NULL
+FecalColMFBr,Fecal Coliform using MF,#/100ml,NULL
+FecalStrepMF,Fecal Strep,#/100ml,NULL
+GranAlk,Alkalinity measured using Gran Alkalinity,mg/l,NULL
+IMAl,Inorganic Monomeric Aluminum,ug/l,Total
+MAl,Monomeric Aluminum,ug/l,Total
+NPOC,Dissolved Non-purgeable Organic Carbon,mg/L,Dissolved
+OMAl,Organic Monomeric Aluminum,ug/l,Total
+ORP,Oxidation Reduction Potential,mV,NULL
+pH,pH,None,NULL
+pH_Air-eq,Air-equilibrated pH,None,NULL
+RegAlk,Alkalinity,mg/l,NULL
+Secchi,Secchi transparency,m,NULL
+SecchiViewTube,Secchi transparency with View Tube,m,NULL
+SpectroDisColor,Dissolved Color measured using the Spectrograph,PCU,Dissolved
+TAg,Total Silver,ug/l,Total
+TAl,Total Aluminum,ug/l,Total
+Tannin,Tannin in water,mg/l,NULL
+TAs,Total Arsenic,ug/l,Total
+TBa,Total Barium,ug/l,Total
+TBe,Total Beryllium,ug/l,Total
+TCa,Total Calcium,mg/l,Total
+TCd,Total Cadmium,ug/l,Total
+TCl,Total Chloride,mg/l,Total
+TCo,Total Cobalt,ug/l,Total
+TCr,Total Chromium,ug/l,Total
+TCu,Total Copper,ug/l,Total
+TDS,Total Dissolved Solids,mg/l,Total
+TempC,Temperature,deg C,NULL
+TF,Total Fluoride,mg/l,Total
+TFe,Total Iron,ug/l,Total
+THg,Total Mercury,ug/l,Total
+TK,Total Potassium,mg/l,Total
+TKN,Total Kjeldahl Nitrogen,mg/l,Total
+TMg,Total Magnesium,mg/l,Total
+TMn,Total Manganese,ug/l,Total
+TMo,Total Molybdenum,ug/l,Total
+TN,Total Nitrogen,mg/l,Total
+TNa,Total Sodium,mg/l,Total
+TNH3,Total Ammonia Nitrogen,mg/l,Total
+TNi,Total Nickel,ug/l,Total
+TNO2,Total Nitrite Nitrogen,mg/l,Total
+TNO3,Total Nitrate Nitrogen,mg/l,Total
+TNOX,Total Nitrate/Nitrite Nitrogen,mg/l,Total
+TOC,Total Organic Carbon,mg/l,Total
+TOP,Total Ortho Phosphorus,ug/l,Total
+TotalColMFAg,Total Coliform using MF Agar,#/100ml,NULL
+TotalColMFBr,Total Coliform using MF,#/100ml,NULL
+TotalHard,Total Hardness,mg/l,Total
+TotSol,Total Solids,mg/l,NULL
+TotSolFix,Total Fixed Solids,mg/l,Total
+TP,Total Phosphorus,ug/l,Total
+TPb,Total Lead,ug/l,Total
+TSb,Total Antimony,ug/l,Total
+TSe,Total Selenium,ug/l,Total
+TSi,Total Silica,mg/l,Total
+TSn,Total Tin,ug/l,Total
+TSO4,Total Sulfate,mg/l,Total
+TSr,Total Strontium,ug/l,Total
+TSS,Total Suspended Solids,mg/l,NULL
+TSSFix,Total Fixed Suspended Solids,mg/l,Total
+TTl,Total Thallium,ug/l,Total
+TU,Total Uranium,ug/L,Total
+TurbJTU,Turbidity (JTU),JTU,NULL
+TurbNTU,Turbidity,NTU,NULL
+TV,Total Vanadium,ug/l,Total
+TZn,Total Zinc,ug/l,Total
+VisualTotColor,Total Color measured using the visual method,PCU,Total
