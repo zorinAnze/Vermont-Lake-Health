@@ -1,0 +1,14 @@
+watermark
+openpyxl
+xlrd
+numpy
+pandas
+geopandas
+altair
+urllib
+json
+os
+ipywidgets
+pyproj
+IPython
+
